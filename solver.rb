@@ -4,4 +4,9 @@ class Solver
 
     n.zero? ? 1 : n * factorial(n - 1)
   end
+
+  def reverse(s)
+    s.reverse
+  end
+  
 end
