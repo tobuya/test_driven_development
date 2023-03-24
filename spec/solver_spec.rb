@@ -33,16 +33,16 @@ RSpec.describe Solver do
 
   describe '#fizzbuzz' do
     it 'returns "fizz" when given 9' do
-        expect(subject.fizzbuzz(9)).to eq("fizz")
+      expect(subject.fizzbuzz(9)).to eq('fizz')
     end
     it 'returns "buzz" when given 20' do
-        expect(subject.fizzbuzz(20)).to eq("buzz")
+      expect(subject.fizzbuzz(20)).to eq('buzz')
     end
     it 'returns "fizzbuzz" when given 15' do
-        expect(subject.fizzbuzz(15)).to eq("fizzbuzz")
+      expect(subject.fizzbuzz(15)).to eq('fizzbuzz')
     end
     it 'returns 7 when given 7' do
-        expect(subject.fizzbuzz(7)).to eq(7)
+      expect(subject.fizzbuzz(7)).to eq(7)
     end
-end
+  end
 end
