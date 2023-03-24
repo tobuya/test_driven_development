@@ -18,4 +18,16 @@ RSpec.describe Solver do
       expect { subject.factorial(-1) }.to raise_error(ArgumentError)
     end
   end
+
+  describe '#reverse' do
+    it 'returns "olleh" when given "hello"' do
+      expect(subject.reverse('hello')).to eq('olleh')
+    end
+    it 'returns "a" when given "a"' do
+      expect(subject.reverse('a')).to eq('a')
+    end
+    it 'returns "dlrow olleh" when given "hello world"' do
+      expect(subject.reverse('hello world')).to eq('dlrow olleh')
+    end
+  end
 end
