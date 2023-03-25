@@ -25,7 +25,7 @@
 
 # 📖 Test_driven_development <a name="about-project"></a>
 
-**test_driven_development** In this project test_driven_development is used, which means the tests are written before actual classes and methods
+In this repository we have implemented Test-Driven Development approach to write `factorial`, `reverse string` and `fizzbuzz` methods in the Solver class. TDD is a software development methodology that emphasizes writing tests for code before writing the code itself.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -88,9 +88,6 @@ Clone this repository to your desired folder:
 
   cd test_driven_development
 ```
-
-### Deployment
-
 ## 👥 Author <a name="author"></a>
 
 👤 **Haliljon Juraboev**
@@ -116,8 +113,6 @@ FUTURE FEATURES
 
 ## 🔭 Future Features <a name="future-features"></a>
 
->
-
 - I would like to add more data in the future
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -137,8 +132,6 @@ Please consider giving a ⭐️ if you like this project!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank [Microverse](https://www.microverse.org/)
 
