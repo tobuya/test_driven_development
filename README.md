@@ -1,6 +1,4 @@
-<img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-
-# Test_driven_development
+# Test Driven Development
 
 # 📗 Table of Contents
 
